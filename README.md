@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tokatu4561</h1>
-- 📝 I regularly write articles on [https://zenn.dev/tokatu](https://zenn.dev/tokatu)
+- 📝 I regularly write articles on [https://zenn.dev/tokatu]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
